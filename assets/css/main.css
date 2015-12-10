@@ -133,7 +133,7 @@ hr {
 #headerwrap h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight:400;
-	font-size:70px;
+	font-size:55px;
 	color:#fff;
 	margin-bottom:25px;
 }
@@ -223,6 +223,13 @@ hr {
 	text-align:left;
 }
 
+#servicios h2 {
+	text-align:left;
+	margin-left:5px;
+	border-left:10px #2FCDEC solid;
+	padding-left:3px;
+}
+
 /********** PROJECT WRAP **********/
 #projectwrap {
     width: 100%;
@@ -289,7 +296,7 @@ hr {
 #footerwrap h2 {
 	text-align:left;
 	margin-left:5px;
-	border-left:10px #ec602f solid;
+	border-left:10px #2FCDEC solid;
 	padding-left:3px;
 	margin-bottom:40px;
 	color:#fff;
@@ -299,7 +306,7 @@ hr {
 	font-family: 'Open Sans Condensed', sans serif;
 	font-weight:400;
 	font-size:30px;
-	color:#ec602f;
+	color:#2FCDEC;
 	text-align:center;
     margin:5px;
 }
