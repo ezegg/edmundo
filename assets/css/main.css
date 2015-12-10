@@ -367,6 +367,11 @@ hr {
 	opacity: 1;
 }
 
+.mask img {
+	height: 120px;
+	width: 120px;
+}
+
 
 /********** FOUNDERS ABOUT DESIGN **********/
 .about_item{
